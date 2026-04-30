@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Retail Sales Performance Dashboard
 
 An interactive business intelligence dashboard built with Python, SQL, and Streamlit — analyzing **$2.3M in retail sales** across 4 regions, 3 product categories, and 4 years of data.
@@ -115,3 +116,7 @@ Open your browser at `http://localhost:8501`
 
 Denuri Vilara
 -
+=======
+# retail-sales-dashboard
+Retail sales dashboard built with Python, SQL and Streamlit — analyzing $2.3M in sales across 4 regions and 3 categories
+>>>>>>> dadc3b1f173b8471e03959bd55b2f15364223c87
